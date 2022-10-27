@@ -3,7 +3,7 @@
 This repo contains the codebase for <a href="https://arxiv.org/abs/2210.10362"> CPL: Counterfactual Prompt Learning for Vision and Language Models
 
 <p align="center">
-  <img width=30% src="assets/motivation.png">
+  <img width=50% src="assets/motivation.png">
 </p>
 
 ## How to Install
@@ -144,10 +144,22 @@ We thank the authors of [CoOp](https://github.com/KaiyangZhou/CoOp) and [CoCoOp]
 
 
 ## Citation
-To do.
-<!---
+
 Please consider citing the paper if you find it useful. Thks! :)
 ```
-To be added
+@inproceedings{he-2022-CPL,
+    title = "{CPL}: Counterfactual Prompt Learning for Vision and Language Models",
+    author = " Xuehai He and 
+        Diji Yang and 
+        Weixi Feng and
+        Fu, Tsu-Jui  and
+        Arjun Akula and 
+        Varun Jampani and
+        Pradyumna Narayana and 
+        Sugato Basu and
+        William Yang Wang and 
+        Xin Eric Wang",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    year = "2022",
+}
 ```
--->
