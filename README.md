@@ -145,7 +145,7 @@ Main/
 
 
 ## Acknowledgements
-We thank the authors of [CoOp](https://github.com/KaiyangZhou/CoOp) and [CoCoOp](https://github.com/KaiyangZhou/CoOp) for releasing their code and engine. We thank the authors of [CLIP Models are Few-shot Learners](https://arxiv.org/pdf/2203.07190.pdf) for their method of VQA prompt generation.
+We thank the authors of [CoOp](https://github.com/KaiyangZhou/CoOp) and [CoCoOp](https://github.com/KaiyangZhou/CoOp) for releasing their code and engine. We thank the authors of [CLIP Models are Few-shot Learners](https://arxiv.org/pdf/2203.07190.pdf) for their method of VQA prompt generation. This project is supported by the Google Ads Faculty Research Award. 
 
 
 ## Citation
