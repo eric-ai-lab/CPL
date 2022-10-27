@@ -157,7 +157,7 @@ Please consider citing the paper if you find it useful. Thks! :)
     author = " Xuehai He and 
         Diji Yang and 
         Weixi Feng and
-        Fu, Tsu-Jui  and
+        Tsu-Jui Fu and
         Arjun Akula and 
         Varun Jampani and
         Pradyumna Narayana and 
