@@ -136,9 +136,7 @@ configs/
 *.sh
 *.png
 *.jpg
-*.txt
 *.pth
 *.npy
 *.checkpoint
 */temp/*
-
