@@ -191,7 +191,8 @@ def cfgen(x, nx, u, y, use_cuda=True):
     return xp, u[:,y]
 
 
-
+#
+from utils *
 def init_score_dict(classnames):
     ScoreDict = {}
     
@@ -204,8 +205,7 @@ def init_score_dict(classnames):
     np.save('score.npy', ScoreDict)
     return ScoreDict
 
-#
-from utils *
+
 class CustomCLIP(nn.Module):
     def __init__(self, cfg, classnames, clip_model):
         super().__init__()
