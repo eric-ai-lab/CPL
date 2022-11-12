@@ -14,7 +14,7 @@ from dassl.metrics import compute_accuracy
 from dassl.utils import load_pretrained_weights, load_checkpoint, read_image
 from dassl.utils.tools import ntransform, xloss_compute
 from clip.utils import build_optimizer, build_lr_scheduler
-from utils import solver, mupdate
+from utils *
 
 from clip import clip
 from clip.simple_tokenizer import SimpleTokenizer as _Tokenizer
@@ -204,7 +204,8 @@ def init_score_dict(classnames):
     np.save('score.npy', ScoreDict)
     return ScoreDict
 
-
+#
+from utils *
 class CustomCLIP(nn.Module):
     def __init__(self, cfg, classnames, clip_model):
         super().__init__()
