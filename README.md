@@ -113,7 +113,9 @@ Or you can use bash
 cd scripts
 sh cocoop/main_cpl.sh $dataset 
 ```
-for methods
+for methods.
+
+The averaged results of ours vs. cocoop on image classification: 88.10 vs. 86.31 (seen), 85.54 vs. 82.68 (unseen). On ITR: 73.85 vs. 71.99 (3%). On VQA: 36.32 vs. 30.18 (3%).
 
 ## Code structure
 ```
